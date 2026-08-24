@@ -1,2 +1,3 @@
-# Practiceproject
+# File organizer
 ...........
+This is a website that can help you sort your files
